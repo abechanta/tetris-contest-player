@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "tetcon_sample", "exec\tetcon_sample\tetcon_sample.vcxproj", "{876A57AA-0444-42BC-8C92-360038FAA99F}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "tetcon", "exec\tetcon\tetcon.vcxproj", "{327DB120-9611-4AC8-A524-9D446165F9B5}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "sample1", "player\sample1\sample1.vcxproj", "{D702CF4E-B4EC-44DD-9415-B275BFC73A1D}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "atplayer1", "player\atplayer1\atplayer1.vcxproj", "{A8618A4E-DD63-476E-95EF-79D72667F032}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{876A57AA-0444-42BC-8C92-360038FAA99F}.Debug|Win32.ActiveCfg = Debug|Win32
+		{876A57AA-0444-42BC-8C92-360038FAA99F}.Debug|Win32.Build.0 = Debug|Win32
+		{876A57AA-0444-42BC-8C92-360038FAA99F}.Release|Win32.ActiveCfg = Release|Win32
+		{876A57AA-0444-42BC-8C92-360038FAA99F}.Release|Win32.Build.0 = Release|Win32
+		{327DB120-9611-4AC8-A524-9D446165F9B5}.Debug|Win32.ActiveCfg = Debug|Win32
+		{327DB120-9611-4AC8-A524-9D446165F9B5}.Debug|Win32.Build.0 = Debug|Win32
+		{327DB120-9611-4AC8-A524-9D446165F9B5}.Release|Win32.ActiveCfg = Release|Win32
+		{327DB120-9611-4AC8-A524-9D446165F9B5}.Release|Win32.Build.0 = Release|Win32
+		{D702CF4E-B4EC-44DD-9415-B275BFC73A1D}.Debug|Win32.ActiveCfg = Debug|Win32
+		{D702CF4E-B4EC-44DD-9415-B275BFC73A1D}.Debug|Win32.Build.0 = Debug|Win32
+		{D702CF4E-B4EC-44DD-9415-B275BFC73A1D}.Release|Win32.ActiveCfg = Release|Win32
+		{D702CF4E-B4EC-44DD-9415-B275BFC73A1D}.Release|Win32.Build.0 = Release|Win32
+		{A8618A4E-DD63-476E-95EF-79D72667F032}.Debug|Win32.ActiveCfg = Debug|Win32
+		{A8618A4E-DD63-476E-95EF-79D72667F032}.Debug|Win32.Build.0 = Debug|Win32
+		{A8618A4E-DD63-476E-95EF-79D72667F032}.Release|Win32.ActiveCfg = Release|Win32
+		{A8618A4E-DD63-476E-95EF-79D72667F032}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
